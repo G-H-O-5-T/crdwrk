@@ -314,7 +314,8 @@ PRODUCT_PACKAGES += \
     init.cpuboost.rc \
     init.cpuboost.sh \
     init.parallax.rc \
-    init.parallax.sh
+    init.parallax.sh \
+    init.xiaomi_parts.rc \
 
 # RenderScript HAL
 PRODUCT_PACKAGES += \
