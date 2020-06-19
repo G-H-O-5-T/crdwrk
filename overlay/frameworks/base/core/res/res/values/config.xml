@@ -665,4 +665,8 @@
          Settings.System.RING_VIBRATION_INTENSITY more details on the constant values and
          meanings. -->
     <integer name="config_defaultRingVibrationIntensity">3</integer>
+
+    <!-- Add Xiaomiparts To ZenHub-->
+    <string name="config_device_parts_package_name" translatable="false">com.xiaomi.parts</string>
+    <string name="config_device_parts_package_activity" translatable="false">com.xiaomi.parts.DeviceSettingsActivity</string>
 </resources>
