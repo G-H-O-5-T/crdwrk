@@ -51,6 +51,9 @@ TARGET_KERNEL_CLANG_COMPILE := true
 TARGET_KERNEL_SOURCE := kernel/xiaomi/mido
 BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
 
+#Ignore Never Alows
+SELINUX_IGNORE_NEVERALLOWS := true
+
 # ANT
 BOARD_ANT_WIRELESS_DEVICE := "vfs-prerelease"
 
