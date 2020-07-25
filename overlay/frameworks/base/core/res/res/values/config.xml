@@ -669,4 +669,7 @@
     <!-- Add Xiaomiparts To ZenHub-->
     <string name="config_device_parts_package_name" translatable="false">com.xiaomi.parts</string>
     <string name="config_device_parts_package_activity" translatable="false">com.xiaomi.parts.DeviceSettingsActivity</string>
+    <!-- Lawnchair Overlay -->
+    <string name="config_recentsComponentName" translatable="false">ch.deletescape.lawnchair.ci/com.android.quickstep.RecentsActivity</string>
+
 </resources>
